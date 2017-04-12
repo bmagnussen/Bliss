@@ -5,6 +5,10 @@ Content/FirstPersonBP
 Content/Geometry
 Intermediate
 
+#Source Art Backups
+.bak
+.autobak
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
